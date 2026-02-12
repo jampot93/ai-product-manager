@@ -1,0 +1,20 @@
+{
+    "name": "ai-product-manager",
+    "metadata": {
+        "description": "A collection of product management skills and agents"
+    },
+    "owner": {
+        "name": "James Hall"
+    },
+    "plugins": [
+        {
+            "name": "ai-product-manager",
+            "source": "./plugins/product",
+            "description": "A collection of agents and skills for product managers.",
+            "agents": [],
+            "commands": [],
+            "skills": [],
+            "hooks": []
+        }
+    ]
+}

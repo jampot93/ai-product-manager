@@ -1,0 +1,21 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "A collection of agents, commands, and skills for product managers.",
+  "author": {
+    "name": "James Hall",
+    "email": "james.hall@hyperexponential.com"
+  },
+  "keywords": [
+    "product-management",
+    "product",
+    "strategy",
+    "roadmap",
+    "user-research",
+    "requirements",
+    "go-to-market"
+  ],
+  "agents": [],
+  "commands": [],
+  "skills": "./skills/"
+}
