@@ -13,7 +13,7 @@
             "description": "A collection of agents and skills for product managers.",
             "agents": [],
             "commands": [],
-            "skills": [],
+            "skills": ["./skills/write-spec/SKILL.md"],
             "hooks": []
         }
     ]
