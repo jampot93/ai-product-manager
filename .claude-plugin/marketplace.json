@@ -15,7 +15,7 @@
             "commands": [],
             "skills": [
                 "./skills/product-architecture/SKILL.md",
-                "./skills/write-spec/SKILL.md"],
+                "./skills/write-product-spec/SKILL.md"],
             "hooks": []
         }
     ]
