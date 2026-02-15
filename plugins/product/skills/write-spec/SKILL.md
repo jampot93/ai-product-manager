@@ -1,7 +1,6 @@
 ---
 name: write-spec
 description: Guide PMs through writing comprehensive product specs with evidence-based thinking
-model: sonnet
 ---
 
 # Product Spec Writing Skill
